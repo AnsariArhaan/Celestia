@@ -1,0 +1,6 @@
+{
+  "name": "Celestia Systems: 3D Solar System & Planetary Telemetry Lab",
+  "description": "An interactive 3D solar system and planetary telemetry lab featuring 4K procedural textures, orbital physics, internal stratigraphy, gravitational simulator, and interstellar astrometry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
