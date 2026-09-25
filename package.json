@@ -21,7 +21,7 @@
     "motion": "^12.23.24",
     "react": "^19.0.1",
     "react-dom": "^19.0.1",
-    "three": "^0.185.1",
+    "three": "^0.185.1"
   },
   "devDependencies": {
     "@types/canvas-confetti": "^1.9.0",
